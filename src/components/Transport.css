@@ -1,0 +1,25 @@
+.container-Home{
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    background: rgb(62,59,108);
+    background: linear-gradient(215deg, rgba(62,59,108,1) 5%, rgba(60,110,88,1) 61%, rgba(70,115,95,1) 68%);
+}
+.card9{
+        text-align: center;
+        font-size: 35px;
+}
+.btn{
+    position: relative;
+    justify-content: flex-start;
+    height: 40px;
+    width: 48px;
+    background-color:blanchedalmond;
+    border-radius: 25%;
+    font-size: 16px;
+    }   
