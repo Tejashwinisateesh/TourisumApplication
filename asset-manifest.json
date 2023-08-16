@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Tejashwinisateesh/TourisumApplication.git/static/css/main.cc131f60.css",
-    "main.js": "/Tejashwinisateesh/TourisumApplication.git/static/js/main.a01fc28f.js",
+    "main.js": "/Tejashwinisateesh/TourisumApplication.git/static/js/main.a5c66d83.js",
     "static/js/787.98651143.chunk.js": "/Tejashwinisateesh/TourisumApplication.git/static/js/787.98651143.chunk.js",
     "static/media/physical-world-map.jpg": "/Tejashwinisateesh/TourisumApplication.git/static/media/physical-world-map.9ed55fc0266f75179d03.jpg",
     "static/media/nature.jpg": "/Tejashwinisateesh/TourisumApplication.git/static/media/nature.228910d6d568fdd600e2.jpg",
@@ -17,11 +17,11 @@
     "static/media/images.jpeg": "/Tejashwinisateesh/TourisumApplication.git/static/media/images.2d4921940f1f24e987f9.jpeg",
     "index.html": "/Tejashwinisateesh/TourisumApplication.git/index.html",
     "main.cc131f60.css.map": "/Tejashwinisateesh/TourisumApplication.git/static/css/main.cc131f60.css.map",
-    "main.a01fc28f.js.map": "/Tejashwinisateesh/TourisumApplication.git/static/js/main.a01fc28f.js.map",
+    "main.a5c66d83.js.map": "/Tejashwinisateesh/TourisumApplication.git/static/js/main.a5c66d83.js.map",
     "787.98651143.chunk.js.map": "/Tejashwinisateesh/TourisumApplication.git/static/js/787.98651143.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc131f60.css",
-    "static/js/main.a01fc28f.js"
+    "static/js/main.a5c66d83.js"
   ]
 }
