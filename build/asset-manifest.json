@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TourisumApplication/static/css/main.4b995f8b.css",
-    "main.js": "/TourisumApplication/static/js/main.603dcea9.js",
+    "main.js": "/TourisumApplication/static/js/main.a36d4185.js",
     "static/js/787.98651143.chunk.js": "/TourisumApplication/static/js/787.98651143.chunk.js",
     "static/media/physical-world-map.jpg": "/TourisumApplication/static/media/physical-world-map.9ed55fc0266f75179d03.jpg",
     "static/media/nature.jpg": "/TourisumApplication/static/media/nature.228910d6d568fdd600e2.jpg",
@@ -17,11 +17,11 @@
     "static/media/images.jpeg": "/TourisumApplication/static/media/images.2d4921940f1f24e987f9.jpeg",
     "index.html": "/TourisumApplication/index.html",
     "main.4b995f8b.css.map": "/TourisumApplication/static/css/main.4b995f8b.css.map",
-    "main.603dcea9.js.map": "/TourisumApplication/static/js/main.603dcea9.js.map",
+    "main.a36d4185.js.map": "/TourisumApplication/static/js/main.a36d4185.js.map",
     "787.98651143.chunk.js.map": "/TourisumApplication/static/js/787.98651143.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b995f8b.css",
-    "static/js/main.603dcea9.js"
+    "static/js/main.a36d4185.js"
   ]
 }
