@@ -10,7 +10,7 @@ import Places from './components/Places';
 function App() {
   return (
   <>
-  <BrowserRouter basename={process.env.PUBLIC_URL}>
+  <BrowserRouter >
   <Routes>
     <Route path='/' element={<Login/>}></Route>
     <Route path='/Home' element={<Home/>}></Route>
