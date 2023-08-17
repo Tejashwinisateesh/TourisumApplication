@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0dcd014b.css",
+    "main.js": "/static/js/main.bbe296c4.js",
+    "static/js/787.98651143.chunk.js": "/static/js/787.98651143.chunk.js",
+    "static/media/physical-world-map.jpg": "/static/media/physical-world-map.9ed55fc0266f75179d03.jpg",
+    "static/media/nature.jpg": "/static/media/nature.228910d6d568fdd600e2.jpg",
+    "static/media/Shani.jpg": "/static/media/Shani.4ec4ff4e3aa52ba27e3b.jpg",
+    "static/media/foodpic.jpeg": "/static/media/foodpic.f91ac7ba09f16631e1a8.jpeg",
+    "static/media/Malshej_Falls.jpg": "/static/media/Malshej_Falls.4e188ba4ad696f755877.jpg",
+    "static/media/loginImage.jpg": "/static/media/loginImage.c5bd321ce080cb1ba8ac.jpg",
+    "static/media/harihara.jpg": "/static/media/harihara.b0fb0a8cca633f524e02.jpg",
+    "static/media/resturant.jpg": "/static/media/resturant.b2ae32753c1c7449d5a4.jpg",
+    "static/media/transportimage.jpg": "/static/media/transportimage.3302f97a2ef6230d5d14.jpg",
+    "static/media/ellora.jpeg": "/static/media/ellora.b08dd9ecda1043f18eef.jpeg",
+    "static/media/grishneshwara.jpeg": "/static/media/grishneshwara.0eb5e8d760896148492e.jpeg",
+    "static/media/images.jpeg": "/static/media/images.2d4921940f1f24e987f9.jpeg",
+    "index.html": "/index.html",
+    "main.0dcd014b.css.map": "/static/css/main.0dcd014b.css.map",
+    "main.bbe296c4.js.map": "/static/js/main.bbe296c4.js.map",
+    "787.98651143.chunk.js.map": "/static/js/787.98651143.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dcd014b.css",
+    "static/js/main.bbe296c4.js"
+  ]
+}
